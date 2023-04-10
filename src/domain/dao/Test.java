@@ -6,5 +6,6 @@ public class Test {
         doctor.workLong(9);
         doctor.working();
         System.out.println("断点1");
+        System.out.println("断点2");
     }
 }
